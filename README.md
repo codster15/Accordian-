@@ -4,9 +4,10 @@ Welcome to the FAQ Accordion project! This simple and stylish accordion allows u
 
 ### Links
 
+- Live Site URL: [live site here](https://codster15.github.io/Accordian-/)
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- 
+
+  
 ## Overview 📚
 
 This project provides a clean and responsive design for displaying FAQs. Users can click on each question to reveal or hide the corresponding answer. The accordion layout ensures a neat and organized presentation of information.
